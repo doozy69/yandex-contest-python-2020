@@ -10,5 +10,5 @@ for i in range(int(count)):
 			max = result
 		result = 0
 
-max = result if result > max else max;
+max = result if result > max else max
 print(max)
