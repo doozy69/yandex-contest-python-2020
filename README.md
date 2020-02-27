@@ -1,1 +1,0 @@
-# yandex-contest-python-2020
